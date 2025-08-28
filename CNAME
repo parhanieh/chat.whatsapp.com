@@ -1,1 +1,4 @@
 com.whtsapp.invite
+| Name / Host | Type  | Value / Points to     | TTL     |
+| ----------- | ----- | --------------------- | ------- |
+| me          | CNAME | `parhanieh.github.io` | default |
